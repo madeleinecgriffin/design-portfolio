@@ -1,0 +1,9 @@
+/* ProfileCard.css */
+.profile-card {
+    color: #ffa500;
+    font-size: 20px;
+}
+
+.profile-card p {
+    font-family: 'Courier New', Courier, monospace;
+}
