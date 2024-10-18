@@ -1,0 +1,5 @@
+/* SectionHeader.css */
+.sectionHeader_text {
+    display: table-cell;
+    vertical-align: bottom;
+}
