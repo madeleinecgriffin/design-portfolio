@@ -1,4 +1,4 @@
-# Deign Portfolio
+# Design Portfolio
 
 This is a portfolio displaying my design experience.
 

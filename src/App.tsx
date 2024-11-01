@@ -28,6 +28,7 @@ const App: React.FC = () => {
         <SectionContent5050 img={""} img2={images.charcoal2} color={"olive"}/>
         <SectionContent5050 img={images.charcoal5} img2={""} color={"olive"}/>
         <SectionContent5050 img={""} img2={images.charcoal4} color={"olive"}/>
+        <SectionContent5050 img={images.charcoal6} img2={""} color={"olive"}/>
         {/* Film Photos */}
         <SectionHeader 
           title={data[1].title} 

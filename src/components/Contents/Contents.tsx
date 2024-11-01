@@ -11,7 +11,7 @@ const Contents: React.FC = () => {
             <ul>
               <li><span>⊳ TryArch Project</span><span className="right">...X</span></li>
               <li><span>⊳ Charcoal Portraits & Studies</span><span className="right">...X</span></li>
-              <li><span>⊳ Chicago Brick on Film</span><span className="right">...X</span></li>
+              <li><span>⊳ Through the Looking Glass</span><span className="right">...X</span></li>
               <li><span>⊳ Web Design</span><span className="right">...X</span></li>
             </ul>
           </div>

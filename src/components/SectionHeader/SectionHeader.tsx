@@ -28,9 +28,8 @@ const SectionHeader: React.FC<SectionHeaderProps> = ({ title, subtitle, descript
                   <p className="subtitle">
                     <i>{subtitle}</i>
                   </p>
-                  <p className="description">
-                    {description}
-                  </p>
+                  <div className="description" dangerouslySetInnerHTML={{ __html: description }}>
+                  </div>
                 </div>
               </>
             ) : (
