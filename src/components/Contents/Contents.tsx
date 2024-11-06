@@ -9,10 +9,9 @@ const Contents: React.FC = () => {
         <div className="row">
           <div className="offset-md-4 col-md-4 col-sm-8 col-xs-12">
             <ul>
-              <li><span>⊳ TryArch Project</span><span className="right">...X</span></li>
-              <li><span>⊳ Charcoal Portraits & Studies</span><span className="right">...X</span></li>
-              <li><span>⊳ Through the Looking Glass</span><span className="right">...X</span></li>
-              <li><span>⊳ Web Design</span><span className="right">...X</span></li>
+              <li><span>⊳ Charcoal Portraits & Studies: Exploring Light & Shadow</span><span className="right">...01</span></li>
+              <li><span>⊳ TryArch 2024: Disrupting Architectural Frameworks</span><span className="right">...02</span></li>
+              <li><span>⊳ 35mm Film: Through the Looking Glass</span><span className="right">...03</span></li>
             </ul>
           </div>
         </div>
